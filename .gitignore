@@ -2,9 +2,13 @@
 /.settings
 /build
 /bin
+.gradle/*
 .classpath
 .project
 *.log
 *~
 /jspf.cache
 /data
+*.lock
+*.bin
+cache.properties
